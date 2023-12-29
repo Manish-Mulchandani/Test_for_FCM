@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657891661317",
+    "project_id": "wholesalertest1",
+    "storage_bucket": "wholesalertest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657891661317:android:b8ea19aac57f427a90ee6c",
+        "android_client_info": {
+          "package_name": "com.testproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9T-LXhJq2BLe33iu03pxf68sG94ztlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
